@@ -28,7 +28,7 @@ Online session to demo and explain git and github.
 
 ## Day 3
 ### Code editors
-Online session to explain and demo the following code editors
+Online session to explain and demo code editors
 
 1. Explain what are code editors ? Perks of using one.
 2. Demo code formatting and intellisense.
