@@ -66,8 +66,6 @@ Demo the following,
 3. Open the project directory in code editor, write code and run.
 4. Upload to github and make changes using text editor git feature.
 
-:heavy_check_mark: Use the whole picture content to explain and demo.
-
 
 ## Day 6 and 7
 ### Miscellaneous stuffs!
