@@ -20,3 +20,4 @@ Packages can also have their own dependencies. Managing all these dependencies c
 ## Tasks
 - Install python in your system
 - Using pip install the packages pygame and turtle.
+- check versions of each packages.
