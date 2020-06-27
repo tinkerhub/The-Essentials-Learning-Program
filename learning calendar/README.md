@@ -32,7 +32,7 @@ Online session to explain and demo code editors
 
 1. Explain what are code editors ? Perks of using one.
 2. Demo code formatting and intellisense.
-3. Demo Git integration and other features.
+3. Demo using inbuilt git in editors.
 4. Show how to install and set up.
 
 :heavy_check_mark: Choose one of the editor from [code editors](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/blob/master/learning%20calendar/code%20editors/README.md) to explain and demo.
