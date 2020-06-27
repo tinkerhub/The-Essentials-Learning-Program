@@ -20,5 +20,6 @@ You can choose any of your favourite code editor and explain the above stuffs.
 ## Editors for reference
 
 [VScode](https://code.visualstudio.com) - A lightweight editor by microsoft.
+
 [Sublime text](https://www.sublimetext.com) - Another lightweight editor by Sublime HQ.
 
