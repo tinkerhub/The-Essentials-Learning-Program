@@ -75,6 +75,6 @@ Demo the following,
 3. Intro to docker.
 4. Deploying using heroku/github pages.
 
-:heavy_check_mark: Use the miscellaneous stuffs content to explain and demo.
+:heavy_check_mark: Use the [miscellaneous stuffs](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/tree/master/learning%20calendar/miscellaneous%20stuffs) content to explain and demo.
 
 :bulb: Introduce and encourage students to try out the tasks.
