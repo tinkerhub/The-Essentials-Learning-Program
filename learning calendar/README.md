@@ -50,7 +50,7 @@ Online session to explain and demo the following terminal and bash commands
 3. Demo and explain using git via command line.
 4. Installing packages using command line.
 
-:heavy_check_mark: Use the Terminal and bash content to explain and demo.
+:heavy_check_mark: Use the [Terminal and bash command](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/tree/master/learning%20calendar/terminal%20and%20bash) content to explain and demo.
 
 :bulb: Introduce and encourage students to try out the tasks.
 
