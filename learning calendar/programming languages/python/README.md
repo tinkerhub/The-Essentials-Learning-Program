@@ -16,3 +16,7 @@ Package Managers are tools that help you manage the dependencies for your projec
 Packages can also have their own dependencies. Managing all these dependencies can be hard because packages may require specific versions of their dependencies. It’s easy to break something by modifying dependencies manually.
 
 [Pip](https://packaging.python.org/tutorials/installing-packages/) is the default package manager for python. 
+
+## Tasks
+- Install python in your system
+- Using pip install the packages pygame and turtle.
