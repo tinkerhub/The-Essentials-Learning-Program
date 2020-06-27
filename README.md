@@ -26,9 +26,9 @@ Goal of this learning program is to teach such essential tools and concepts to t
 ## Running the Learning Program
 This steps will get you started with conducting the essentials learning program in your circle.
 
-1. Check out the guidelines and setup things mentioned there.
-2. This is a 7 day program. Topics for each days explained in learning calendar.
-3. Conduct the program with topics in learning calendar following the guidelines.
+1. Check out the [guidelines](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/blob/master/learning%20calendar/guidelines.md) and setup things mentioned there.
+2. This is a 7 day program. Topics for each days explained in the [learning calendar](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/tree/master/learning%20calendar).
+3. Conduct the program with topics in learning calendar following the [guidelines](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/blob/master/learning%20calendar/guidelines.md).
 4. Check out examples for sample learning programs.
 
 
