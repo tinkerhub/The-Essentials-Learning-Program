@@ -2,7 +2,7 @@
 
 Here we explain what are code editors and various features and plugins available.
 
-☝️ you can see folders with names of code editors. Inside each of the folder the following topics specific to each code editor is explained.
+Here you can see various code editors and their features.
 
 - Explain what are code editors ? Perks of using one.
 - Demo code formatting and intellisense.
@@ -11,5 +11,8 @@ Here we explain what are code editors and various features and plugins available
 
 ## Call to action
 
-You can choose any of the code editor and explain in your sessions. 
+You can choose any of your favourite code editor and explain the above stuffs. 
 
+## VScode
+
+[VSCode](https://code.visualstudio.com) is a lightweight code editor created by microsoft. 
