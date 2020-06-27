@@ -15,4 +15,6 @@ While some of these are helper tools and concepts that ease your effort, some ar
 
 ## The Goal
 Most of us started to learn code in school or college by writing code using this [GNU nano editor](https://www.nano-editor.org). Even though the vintage look and experience is cool, using a light weight text editor with next line suggestions like the following image will help you learn to code faster and in much better way.
+
+
 ![Intellisense demo](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/blob/master/resources/intellisense.gif)
