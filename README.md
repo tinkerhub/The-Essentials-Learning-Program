@@ -40,6 +40,6 @@ Following are the guidelines we would like you to follow when conducting the lea
 4. Introduce tasks created for each topics and encourage participants to try them out.
 
 ## Learning content
-To be updated
+Go to learning content directory :bulb:
 
 ### Created with :heart: and :mask:
