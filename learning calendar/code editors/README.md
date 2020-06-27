@@ -13,6 +13,4 @@ Here you can see various code editors and their features.
 
 You can choose any of your favourite code editor and explain the above stuffs. 
 
-## VScode
 
-[VSCode](https://code.visualstudio.com) is a lightweight code editor created by microsoft. 
