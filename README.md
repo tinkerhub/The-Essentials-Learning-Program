@@ -24,20 +24,13 @@ Goal of this learning program is to teach such essential tools and concepts to t
 
 
 ## Running the Learning Program
-Following are the guidelines we would like you to follow when conducting the learning program.
+This steps will get you started with conducting the essentials learning program in your circle.
 
-### Participants
+1. Check out the guidelines and setup things mentioned there.
+2. This is a 7 day program. Topics for each days explained in learning calendar.
+3. Conduct the program with topics in learning calendar following the guidelines.
+4. Check out examples for sample learning programs.
 
-1. Announce the learning program in your circle with a poster and google form.
-2. Interest to learn is the only participants criteria.
-3. Limit the number of participants based on your comformtability.
-
-### Conducting sessions
-
-1. Use [google meet](https://meet.google.com) or other conference call platforms for sessions. You can prerecord and share in [youtube](https://youtube.com) as well.
-2. Use the resources provided below for taking sessions. Prefered to keep the order of contents, but yeah who don't like a bit of improvisation ?!
-3. The sessions are prefered to be conducted in a manner which the teacher explaining concepts and demo the tools. Basically hands on!
-4. Introduce tasks created for each topics and encourage participants to try them out.
 
 ## Learning content
 Go to learning content directory :bulb:
