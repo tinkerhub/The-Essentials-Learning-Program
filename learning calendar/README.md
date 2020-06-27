@@ -35,7 +35,7 @@ Online session to explain and demo code editors
 3. Demo Git integration and other features.
 4. Show how to install and set up.
 
-:heavy_check_mark: Choose one of the editor from code editors to explain and demo.
+:heavy_check_mark: Choose one of the editor from [code editors](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/blob/master/learning%20calendar/code%20editors/README.md) to explain and demo.
 
 :bulb: Introduce and encourage students to try out the tasks.
 
