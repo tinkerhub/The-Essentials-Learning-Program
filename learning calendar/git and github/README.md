@@ -1,6 +1,8 @@
 # Content for teaching Git and GitHub
 
 ## Open github and explain the purpose.
+
+Open [github](https://github.com) and explain each of the functionalities.
 ![github ui](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/blob/master/learning%20calendar/git%20and%20github/github_ui.png)
 
 ## Explain repo, readme, issues, branch..etc with web UI.
