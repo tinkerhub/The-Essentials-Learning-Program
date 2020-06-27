@@ -22,7 +22,7 @@ Online session to demo and explain git and github.
 2. Explain repo, readme, issues, branch..etc with web UI.
 3. Demo how to download a repo and upload files to github via UI.
  
-:heavy_check_mark: Use the resources in Git and GitHub to explain and demo.
+:heavy_check_mark: Use the resources in [Git and GitHub](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/blob/master/learning%20calendar/git%20and%20github/README.md) to explain and demo.
 
 :bulb: Introduce and encourage students to try out the tasks.
 
