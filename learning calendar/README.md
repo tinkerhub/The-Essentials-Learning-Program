@@ -10,7 +10,7 @@ Online session to explain and demo the following about programming languages
 3. Writing and running a program.
 4. Intro to package managers.
 
-:heavy_check_mark: Choose one of the language from programming languages to explain and demo.
+:heavy_check_mark: Choose one of the language from [programming languages](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/tree/master/learning%20calendar/programming%20languages) to explain and demo.
 
 :bulb: Introduce and encourage students to try out the tasks.   
 
