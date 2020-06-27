@@ -1,13 +1,4 @@
-# Project Name
-Long Description about project. This project do that. This project is awesome...
-## How it Works ?
-Explaining the working of project
-## Libraries used
-Library Name - Version
-## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
-## How to Test 
-Instructions for testing  
-## Contributors
+# The Essentials Learning Program
+
+Building something with code is a beautiful process. For the problem statement you come up with a solution with lots of thoughts and brainstorm with peers. From there you start a journey to transform that idea to the product you(and your peers) imagined. In this process a lot of knowledge and tools come in play that aid you to go forward in correct way and minimize efforts.
+
