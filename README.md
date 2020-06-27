@@ -36,4 +36,4 @@ This steps will get you started with conducting the essentials learning program 
 Go to the [learning calendar](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/tree/master/learning%20calendar) directory to see the learning contents categorised by day.
 
 
-### Created with :heart: and social distance !
+### Created with :heart: and social distancing !
