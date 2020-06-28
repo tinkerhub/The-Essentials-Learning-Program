@@ -47,8 +47,9 @@ Online session to explain and demo the following terminal and bash commands
 
 1. Explain what is a terminal ? what is the purpose ?
 2. Demo the essential commmands like `cd`, `ls` and `mkdir`.
-3. Demo and explain using git via command line.
-4. Installing packages using command line.
+3. Setting paths and env variables.
+4. Demo and explain using git via command line.
+5. Installing packages using command line.
 
 :heavy_check_mark: Use the [Terminal and bash command](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/tree/master/learning%20calendar/terminal%20and%20bash) content to explain and demo.
 
@@ -70,9 +71,9 @@ Demo the following,
 ## Day 6 and 7
 ### Miscellaneous stuffs!
 
-1. Setting paths and env variables.
-2. Tracking and fixing bugs/errors (not just by stackoverflowing)
-3. Intro to docker.
+1. Tracking and fixing bugs/errors (not just by stackoverflowing)
+2. Json, yaml and other familar file formats.
+3. Intro to CICD
 4. Deploying using heroku/github pages.
 
 :heavy_check_mark: Use the [miscellaneous stuffs](https://github.com/tinkerhub-org/The-Essentials-Learning-Program/tree/master/learning%20calendar/miscellaneous%20stuffs) content to explain and demo.
